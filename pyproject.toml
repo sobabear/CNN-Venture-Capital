@@ -2,7 +2,7 @@
 name = "venture-capital"
 version = "0.1.0"
 description = ""
-authors = ["brunel.lee <brunel.lee@kakaohealthcare.com>"]
+authors = ["yongjun <aringod7@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
